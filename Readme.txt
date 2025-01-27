@@ -24,7 +24,7 @@ For Challenge B, the program processes the file generated in Challenge A and pri
 
 Steps:
 1. Run the script with the following command:
-   deno run --allow-read challenge_b.ts
+   deno run --allow-read --allow-write challenge_b.ts
 
 ---
 
