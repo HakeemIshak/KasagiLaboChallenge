@@ -6,4 +6,4 @@ USER root
 
 COPY . .
 
-CMD [ "deno", "--allow-write", "--allow-read", "challenge_b.ts" ]
+CMD [ "deno", "--allow-write", "--allow-read", "b.ts" ]
